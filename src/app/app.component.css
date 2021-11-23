@@ -1,0 +1,22 @@
+header{
+    background-color: tan;
+}
+header p{
+    color: white;
+    padding: 5px 10px;
+    font-size: 30px;
+
+}
+.Header-Down{
+    background-color: rgb(165, 112, 42);
+    padding: 10px 10px;
+    text-align: center;
+    
+}
+.Header-Down a{
+    font-size: 30px;
+    text-decoration: none;
+    float: none;
+    padding: 5px 20px;
+    color: wheat;
+}
